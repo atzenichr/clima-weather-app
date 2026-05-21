@@ -23,13 +23,26 @@ Short demo of the app interface and weather search functionality
 https://github.com/user-attachments/assets/4321cb74-a0c1-4f86-864a-d48c9ae75a53
 
 Screenshots
-<img width="1179" height="2556" alt="Clima search dark mode" src="https://github.com/user-attachments/assets/4aaae6df-6feb-411b-888d-41ee440558a0" />
+<### Light Mode
 
-<img width="1179" height="2556" alt="Clima light mode" src="https://github.com/user-attachments/assets/94973b8f-4953-4087-8614-009891aa2611" />
+![Light Mode](Screenshots/Clima_light_mode.png)
+
+### Dark Mode
+
+![Dark Mode](Screenshots/Clima_dark_mode.png)
+
 
 Future Improvements
 * 5-day forecast
 * Saved favourite cities
 * Weather animations
 * Additional weather detils (humidity, wind, visibility)
-* Performance and UI refinements 
+* Performance and UI refinements
+
+
+Author
+Christian Atzeni
+
+GitHub: https://github.com/atzenichr
+
+LinkedIn: https://linkedin.com/in/atzenichr
